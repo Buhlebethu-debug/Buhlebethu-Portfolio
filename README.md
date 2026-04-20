@@ -25,7 +25,7 @@ Built an AI-powered planner using Amazon PartyRock, creating a structured workfl
 - Data Workflows
 
 ## Live Website
-
+https://buhlebethu-debug.github.io/Buhlebethu-Portfolio/
 
 ## Contact
 - LinkedIn : https://www.linkedin.com/in/buhlebethu-biyela-3a4469281
